@@ -1,16 +1,15 @@
-### Hi there 👋
+### boass vindas ao meu perfil
 
-<!--
-**THZINHOX/THZINHOX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome e thiago
 
-Here are some ideas to get you started:
+-estou estudando no alura
+-estou me desenvolvendo na linguagem JavaScript
+-utilizo esse espaço para minha organizaçao e compartilhar meu do meu projeto desenvolvido 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### voce entrar em contato comigo 📫
+
+thiagofxp577@gmail.com
+
+@thiagofxp577
+
+![](https://media.tenor.com/TSTviyh1yoIAAAAC/harry-maguire-big-head.gif)
